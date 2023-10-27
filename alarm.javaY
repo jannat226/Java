@@ -1,0 +1,18 @@
+public class alarm {
+    
+	public Alarm(){
+		this.message='';
+		this.active=false;
+	}
+
+    public String message;
+    private Boolean active = false;
+
+    public void visualize() {
+        System.out.println("Alarm ");
+    }
+
+    public void register() {
+        System.out.println("Register");
+    }
+}

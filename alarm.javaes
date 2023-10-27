@@ -1,0 +1,15 @@
+public class alarm{
+    public static void main (String[] args){
+         String message;
+         Boolean active= false;
+	public void visualize(){
+		System.out.println("Alarm ")
+	}
+	public void register(){
+		System.out.println("Register")
+	}
+
+    }   
+}
+
+
