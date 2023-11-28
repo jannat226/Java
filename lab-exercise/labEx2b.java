@@ -8,7 +8,6 @@ public class labEx2b {
         System.out.println("1. Append: " + stringBuffer.append("world!"));
 
         // insert()
-
         System.out.println("2. Insert: " + stringBuffer.insert(7, "Java "));
 
         // replace()
